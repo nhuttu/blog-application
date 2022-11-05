@@ -4,7 +4,7 @@ Python backend (FastAPI)
 
 JavaScript frontend (React TypeScript)
 
-README in progress
+README and project in progress
 
 
 
